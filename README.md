@@ -1537,6 +1537,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [TabBar](https://github.com/onl1ner/TabBar) - Highly customizable tab bar for SwiftUI applications.
 * [Tabman](https://github.com/uias/Tabman) - A powerful paging view controller with indicator bar.
 * [TabPageViewController](https://github.com/EndouMari/TabPageViewController) - Paging view controller and scroll tab view.
+* [SwiftUIMaterialTabs](https://github.com/SwiftKickMobile/SwiftUIMaterialTabs) - Material 3-style tabs and Sticky Headers rolled into one SwiftUI library
 
 #### Template
 [back to top](#readme) 
